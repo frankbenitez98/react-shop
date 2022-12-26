@@ -1,8 +1,8 @@
 {
-   "homepage": "https://frankbenitez98.github.io/nombre-de-mi-repo/",
+   "homepage": "https://frankbenitez98.github.io/react-shop/",
    "name": "react-shop",
    "version": "1.0.0",
-   "description": "react eshop",
+   "description": "react shop",
    "main": "src/index.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
